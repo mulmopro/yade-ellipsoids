@@ -32,6 +32,7 @@ To start the simulation you can simply run:
 ```
 ./script
 ```
+this will execute several commands, like Yade and Blender.
 As a result, you will obtain a .txt format file composed of four columns. The first column is a letter followed by a closed bracket that indicates the type of data (D=dimension, R=rotation, P=position). The following three columns are float numbers of the specified data along the three directions (x, Y, and Z). You can use this file to reproduce the packaging of ellipsoids in several software to run CFD simulations. 
 
 ### Version
