@@ -1,4 +1,4 @@
-# Generation of a packing of ellipsodial particles 
+# Generation of a packing of ellipsoidal particles 
 
 ## Ellipsoids packing generation
 
