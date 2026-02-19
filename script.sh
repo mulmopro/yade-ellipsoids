@@ -1,5 +1,5 @@
 cd Sedimentation
-yade-batch --job-threads 10 sedimentation_pack.py
+yadedaily-batch --job-threads 10 sedimentation_pack.py
 rm blender99.vtk
 cp ./packing/packing_total.vtk ./blender99.vtk
 blender -b -P Imp.py
