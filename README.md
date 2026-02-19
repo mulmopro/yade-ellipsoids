@@ -39,8 +39,8 @@ As a result, you will obtain a .txt format file composed of four columns. The fi
 
 This script has been tested with:
 - Python 3.10.4
-- Yade 2022.01a
+- Yadedaily 20260115-8983~7c8d01e~noble1
 - Blender 4.3.2
-- Ubuntu 20.04.06
+- Ubuntu 24.04
 
 The authors do not guarantee that the codes will work properly on systems other than those mentioned above
